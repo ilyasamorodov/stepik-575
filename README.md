@@ -1,6 +1,7 @@
 # Stepik online course homework
-Course name: Automated testing with python and selenium
-Course link: https://stepik.org/course/575
+**Course name**: _Automated testing with python and selenium_
+
+**Course link**: https://stepik.org/course/575
 
 ## Tech
 
