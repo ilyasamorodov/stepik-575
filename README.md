@@ -13,11 +13,13 @@
 
 ### Unit 1
 
-* Lesson 1.6 Step 4
-* Lesson 1.6 Step 5
-* Lesson 1.6 Step 7
-* Lesson 1.6 Step 8
-* Lesson 1.6 Step 11
+* Lesson 2 Step 11
+* Lesson 6 Step 4
+* Lesson 6 Step 5
+* Lesson 6 Step 7
+* Lesson 6 Step 8
+* Lesson 6 Step 10
+* Lesson 6 Step 11
 
 ### Unit 2
 
@@ -33,9 +35,9 @@
 
 ### Unit 3
 
-...
+* in progress...
 
 ### Unit 4
 
-...
+* waiting...
 
