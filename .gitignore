@@ -1,3 +1,4 @@
 # Ignored files and folders
+__pycache__/
 selenium_env
 .vscode
