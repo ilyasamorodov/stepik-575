@@ -3,3 +3,4 @@ __pycache__/
 selenium_env
 .vscode
 *.log
+.DS_Store
